@@ -1,0 +1,37 @@
+[
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": ["Fiction", "Classic"],
+      "rating": 4.5,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/51NhKl2iYkL.SX331_BO1,204,203,200.jpg"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": ["Fiction", "Dystopian"],
+      "rating": 4.8,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/51NKte0zvZL.SX324_BO1,204,203,200.jpg"
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": ["Fiction", "Classic"],
+      "rating": 4.3,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/41cJQnPaZSL.SX322_BO1,204,203,200.jpg"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": ["Fiction", "Romance", "Classic"],
+      "rating": 4.6,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/51xSXdF8sXL.SX315_BO1,204,203,200.jpg"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": ["Fiction", "Coming-of-age"],
+      "rating": 4.2,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/41aQdKDrJML.SX322_BO1,204,203,200.jpg"
+    }
+  ]
